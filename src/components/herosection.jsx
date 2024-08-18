@@ -6,7 +6,7 @@ import Navbar from './navbar';
 const Herosection = () => {
   return (
     <div
-      className="relative h-[65vh] md:h-[100vh] bg-center bg-cover bg-no-repeat"
+      className="relative h-[35vh] md:h-[100vh] bg-center bg-cover bg-no-repeat"
     >
       <img src="./Assets/herosection.jpg" className='h-full  w-full md:object-cover' alt="" />
       <div className="absolute w-full top-[15%] flex flex-col justify-center items-center px-4">
